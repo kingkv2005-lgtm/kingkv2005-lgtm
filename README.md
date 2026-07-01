@@ -39,11 +39,16 @@
 
 ---
 
-### Machine Learning
+### AI & Machine Learning
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0A66C2?style=for-the-badge)
+
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge)
+
+![Neural Networks](https://img.shields.io/badge/Neural%20Networks-FF6F00?style=for-the-badge)
+![Time-Series Prediction](https://img.shields.io/badge/Neural%20Networks-FF6F00?style=for-the-badge)
 
 ---
 
