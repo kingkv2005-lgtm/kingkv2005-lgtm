@@ -47,7 +47,7 @@
 
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge)
 
-![Neural Networks](https://img.shields.io/badge/Neural%20Networks-FF6F00?style=for-the-badge)
+![Neural Networks](https://img.shields.io/badge/Neural%20Networks-181717?style=for-the-badge)
 
 ![Time-Series Prediction](https://img.shields.io/badge/Time--Series%20Prediction-FF6F00?style=for-the-badge)
 ---
